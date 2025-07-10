@@ -7,7 +7,7 @@ import io
 
 
 load_dotenv()
-genai.configure(api_key="AIzaSyAAeXSrJnpV82FZdqsPen0TVo_8sHX9bEk")
+genai.configure(api_key="YOUR_API_KEY")
 
 
 st.set_page_config(page_title="🍎 NutriVision", layout="centered", page_icon="favicon.png")
